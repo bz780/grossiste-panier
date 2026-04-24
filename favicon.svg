@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#f5ede0"/>
+  <!-- Corps du panier -->
+  <ellipse cx="32" cy="44" rx="19" ry="11" fill="#7c5c3a"/>
+  <!-- Tressage horizontal -->
+  <line x1="14" y1="40" x2="50" y2="40" stroke="#a07d5a" stroke-width="1.2" opacity="0.7"/>
+  <line x1="14" y1="44" x2="50" y2="44" stroke="#a07d5a" stroke-width="1.2" opacity="0.7"/>
+  <line x1="15" y1="48" x2="49" y2="48" stroke="#a07d5a" stroke-width="1.2" opacity="0.7"/>
+  <!-- Tressage vertical -->
+  <line x1="22" y1="34" x2="22" y2="54" stroke="#5c4028" stroke-width="0.8" opacity="0.5"/>
+  <line x1="28" y1="33" x2="28" y2="55" stroke="#5c4028" stroke-width="0.8" opacity="0.5"/>
+  <line x1="36" y1="33" x2="36" y2="55" stroke="#5c4028" stroke-width="0.8" opacity="0.5"/>
+  <line x1="42" y1="34" x2="42" y2="54" stroke="#5c4028" stroke-width="0.8" opacity="0.5"/>
+  <!-- Bord supérieur du panier -->
+  <ellipse cx="32" cy="34" rx="19" ry="5" fill="none" stroke="#7c5c3a" stroke-width="2.5"/>
+  <!-- Anse -->
+  <path d="M21 33 Q32 12 43 33" fill="none" stroke="#7c5c3a" stroke-width="3" stroke-linecap="round"/>
+</svg>
